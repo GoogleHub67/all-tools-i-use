@@ -81,3 +81,7 @@
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-6.6.124-blue?style=flat)
 ![WebCatalog](https://img.shields.io/badge/WebCatalog-77.4.0-blue?style=flat)
 ![Windows Subsystem for Linux](https://img.shields.io/badge/WSL-3.0.3-blue?style=flat&logo=linux&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-blue?style=flat)
+![Antigravity](https://img.shields.io/badge/Antigravity-blue?style=flat)
+![GnuWin32](https://img.shields.io/badge/GnuWin32-blue?style=flat)
