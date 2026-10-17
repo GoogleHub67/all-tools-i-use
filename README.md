@@ -1,6 +1,5 @@
-![7-Zip ZS](https://img.shields.io/badge/7--Zip ZS-26.02 ZS v1.5.7 R1-blue?style=flat&logo=7-zip&logoColor=white)
+![7-Zip ZS](https://img.shields.io/badge/7--ZipZS-26.02 ZS v1.5.7 R1-blue?style=flat&logo=7-zip&logoColor=white)
 ![ActivityWatch](https://img.shields.io/badge/ActivityWatch-0.13.2-blue?style=flat&logo=activitywatch&logoColor=white)
-![Adobe Acrobat](https://img.shields.io/badge/Adobe-Acrobat-26.002.21931-red?style=flat&logo=adobeacrobat&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/ArduinoIDE-2.3.8-00979D?style=flat&logo=arduino&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-2.0.26-green?style=flat&logo=autohotkey&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-2026.8.0-175DDC?style=flat&logo=bitwarden&logoColor=white)
