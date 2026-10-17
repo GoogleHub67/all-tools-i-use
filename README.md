@@ -1,83 +1,42 @@
-![7-Zip ZS](https://img.shields.io/badge/7--ZipZS-26.02ZSv1.5.7R1-blue?style=flat&logo=7-zip&logoColor=white)
-![ActivityWatch](https://img.shields.io/badge/ActivityWatch-0.13.2-blue?style=flat&logo=activitywatch&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/ArduinoIDE-2.3.8-00979D?style=flat&logo=arduino&logoColor=white)
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-2.0.26-green?style=flat&logo=autohotkey&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/Bitwarden-2026.8.0-175DDC?style=flat&logo=bitwarden&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-5.2.2-F5792A?style=flat&logo=blender&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-155.1.97.59-FF1B2D?style=flat&logo=brave&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-3.13.21-000000?style=flat&logo=cursor&logoColor=white)
-![DB Browser for SQLite](https://img.shields.io/badge/DBBrowserforSQLite-3.13.1-782A4A?style=flat&logo=sqlite&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/DockerDesktop-4.82.0-2496ED?style=flat&logo=docker&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-275.4.3565-0061FF?style=flat&logo=dropbox&logoColor=white)
-![Everything](https://img.shields.io/badge/Everything-1.4.1.1032-blue?style=flat)
-![Gemini](https://img.shields.io/badge/Gemini-1.15.0-8E75C2?style=flat&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2.55.0.2-F05032?style=flat&logo=git&logoColor=white)
-![GitHub CLI](https://img.shields.io/badge/GitHubCLI-2.100.0-181717?style=flat&logo=github&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHubDesktop-3.5.6-181717?style=flat&logo=github&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/GoogleChrome-155.0.8059.84-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![Google Drive](https://img.shields.io/badge/GoogleDrive-132.0.0.0-4285F4?style=flat&logo=googledrive&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-26.8.0.1-5C287B?style=flat&logo=libreoffice&logoColor=white)
-![Malwarebytes](https://img.shields.io/badge/Malwarebytes-5.7.2.358-00A6ED?style=flat&logo=malwarebytes&logoColor=white)
-![Microsoft Office 2024](https://img.shields.io/badge/MicrosoftOffice2024-16.0.17932-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
-![Microsoft OneDrive](https://img.shields.io/badge/MicrosoftOneDrive-26.178.0913-0078D4?style=flat&logo=microsoftonedrive&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-24.19.0-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-8.7.3-90E59A?style=flat&logo=notepadplusplus&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-0.40.2-000000?style=flat&logo=ollama&logoColor=white)
-![Open WebUI](https://img.shields.io/badge/OpenWebUI-0.0.20-blue?style=flat)
-![Oracle VirtualBox](https://img.shields.io/badge/OracleVirtualBox-7.2.10-183A60?style=flat&logo=virtualbox&logoColor=white)
-![PeaZip](https://img.shields.io/badge/PeaZip-11.1.0-blue?style=flat)
-![PowerToys](https://img.shields.io/badge/PowerToys-0.96.1-0078D4?style=flat)
-![Proton Drive](https://img.shields.io/badge/ProtonDrive-3.0.0-6D4AFF?style=flat&logo=proton&logoColor=white)
-![Proton Mail](https://img.shields.io/badge/ProtonMail-1.12.1-6D4AFF?style=flat&logo=protonmail&logoColor=white)
-![Proton Pass](https://img.shields.io/badge/ProtonPass-1.37.0-6D4AFF?style=flat&logo=proton&logoColor=white)
-![Proton VPN](https://img.shields.io/badge/ProtonVPN-5.1.7-6D4AFF?style=flat&logo=protonvpn&logoColor=white)
-![qBittorrent](https://img.shields.io/badge/qBittorrent-5.2.0-2F67B2?style=flat&logo=qbittorrent&logoColor=white)
-![Rclone](https://img.shields.io/badge/Rclone-1.75.1-255E79?style=flat&logo=rclone&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1.2.94.583-1ED760?style=flat&logo=spotify&logoColor=black)
-![Stockfish](https://img.shields.io/badge/Stockfish-18.0-blue?style=flat)
-![TeraBox](https://img.shields.io/badge/TeraBox-1.47.0-blue?style=flat)
-![TeraCopy](https://img.shields.io/badge/TeraCopy-4.0.3.2-blue?style=flat)
-![uv](https://img.shields.io/badge/uv-0.12.7-E24A8D?style=flat)
-![Visual Studio Community 2022](https://img.shields.io/badge/VisualStudioCommunity2022-17.14.40-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![VLC media player](https://img.shields.io/badge/VLCmediaplayer-3.0.23-FF6600?style=flat&logo=vlc&logoColor=white)
-![WinRAR](https://img.shields.io/badge/WinRAR-7.23.0-blue?style=flat)
-![WizTree](https:/img.shields.io//badge/WizTree-4.31-blue?style=flat)
-![WPS Office](https://img.shields.io/badge/WPSOffice-12.1.0.29162-D4222B?style=flat&logo=wpsoffice&logoColor=white)
-![Zoom Workplace](https://img.shields.io/badge/ZoomWorkplace-6.2.50939-2D8CFF?style=flat&logo=zoom&logoColor=white)
-![Bitdefender Agent](https://img.shields.io/badge/BitdefenderAgent-27.1.1.49-red?style=flat&logo=bitdefender&logoColor=white)
-![Bitdefender VPN](https://img.shields.io/badge/BitdefenderVPN-27.3.5.11-red?style=flat&logo=bitdefender&logoColor=white)
-![BlueStacks](https://img.shields.io/badge/BlueStacks-5.22.280-12A5F4?style=flat&logo=bluestacks&logoColor=white)
-![ChessBase Reader](https://img.shields.io/badge/ChessBaseReader-14.17.0-blue?style=flat)
-![Chessmaster Grandmaster Edition](https://img.shields.io/badge/Chessmaster-1.02.0-blue?style=flat)
-![ChessX](https://img.shields.io/badge/ChessX-1.6.10-blue?style=flat)
-![DGT LiveChess](https://img.shields.io/badge/DGTLiveChess-2.2-blue?style=flat)
-![Google Earth Pro](https://img.shields.io/badge/GoogleEarthPro-7.3.7-4285F4?style=flat&logo=googleearth&logoColor=white)
-![Google Play Games](https://img.shields.io/badge/GooglePlayGames-26.10.90-4285F4?style=flat&logo=googleplay&logoColor=white)
-![Grammarly for Windows](https://img.shields.io/badge/GrammarlyforWindows-1.2.279-00F298?style=flat&logo=grammarly&logoColor=white)
-![iCloud Outlook](https://img.shields.io/badge/iCloudOutlook-15.0.0-F45233?style=flat&logo=icloud&logoColor=white)
-![ImHex](https://img.shields.io/badge/ImHex-1.39.0-blue?style=flat)
-![Java SE Development Kit 21](https://img.shields.io/badge/JavaSEJDK21-21.0.12-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Lucas Chess](https://img.shields.io/badge/LucasChess-R6.0.4-blue?style=flat)
-![MEGAsync](https://img.shields.io/badge/MEGAsync-6.6.2-E1242A?style=flat&logo=mega&logoColor=white)
-![Mem Reduct](https://img.shields.io/badge/MemReduct-3.5.2-blue?style=flat)
-![Microsoft Azure Storage Explorer](https://img.shields.io/badge/MicrosoftAzureStorageExplorer-1.20.1-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Microsoft Encarta Premium 2009](https://img.shields.io/badge/MicrosoftEncarta-2009-blue?style=flat&logo=microsoft&logoColor=white)
-![Modern CSV](https://img.shields.io/badge/ModernCSV-2.4.2-blue?style=flat)
-![Mozilla Thunderbird](https://img.shields.io/badge/MozillaThunderbird-153.0.1-0A84FF?style=flat&logo=thunderbird&logoColor=white)
-![Play Store](https://img.shields.io/badge/PlayStore-30.4.17-4285F4?style=flat&logo=googleplay&logoColor=white)
-![Proton Authenticator](https://img.shields.io/badge/ProtonAuthenticator-1.1.6-6D4AFF?style=flat&logo=proton&logoColor=white)
-![Proton Meet](https://img.shields.io/badge/ProtonMeet-1.0.9-6D4AFF?style=flat&logo=proton&logoColor=white)
-![PuTTY release 0.85](https://img.shields.io/badge/PuTTY-0.85.0-blue?style=flat&logo=putty&logoColor=white)
-![Python 3.14.0 (64-bit)](https://img.shields.io/badge/Python-3.14.0-3776AB?style=flat&logo=python&logoColor=white)
-![Recuva](https://img.shields.io/badge/Recuva-1.55-blue?style=flat)
-![Redact](https://img.shields.io/badge/Redact-0.21.31-blue?style=flat)
-![Revo Uninstaller](https://img.shields.io/badge/RevoUninstaller-2.7.0-blue?style=flat)
-![Rustup](https://img.shields.io/badge/Rustup-1.29.0-000000?style=flat&logo=rust&logoColor=white)
-![Scala CLI](https://img.shields.io/badge/ScalaCLI-1.15.0-DC322F?style=flat&logo=scala&logoColor=white)
-![Scid vs PC](https://img.shields.io/badge/ScidvsPC-4.26-blue?style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-1.0.0-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![SwissManagerUniCode](https://img.shields.io/badge/SwissManagerUniCode-15.0.0-blue?style=flat)
-![Tux Paint](https://img.shields.io/badge/TuxPaint-0.9.35-blue?style=flat)
-![UltraViewer](https://img.shields.io/badge/UltraViewer-6.6.124-blue?style=flat)
-![WebCatalog](https://img.shields.io/badge/WebCatalog-77.4.0-blue?style=flat)
-![Windows Subsystem for Linux](https://img.shields.io/badge/WSL-3.0.3-blue?style=flat&logo=linux&logoColor=white)
+# 💻 Station Config & Environment Profile
+
+A centralized tracking repository mapping out the local environment setup, machine provisioning footprints, runtimes, active dependencies, and workflow frameworks running on my workstations.
+
+Rather than cluttering the master profile landing page with raw asset lists, this ecosystem uses a modular file structure to separate high-level configuration documentation from exhaustive dependency lists.
+
+---
+
+## ⚙️ Environment Overview
+
+This setup is optimized for heavy automation, systems development, data science pipelines, and automated agent workflows. 
+
+### 🚀 Primary Dev Stack
+* **Workhorse Stack:** Python dominates the local environment (accounting for 90% of development operations) driving backend processes, automation scripts, and localized AI interactions.
+* **Polyglot Engineering:** Supported by robust environments for system runtimes (Rust, C++, Java, Scala), native scripting utilities (Bash/Shell, PowerShell, Batchfile), and frontend presentation layers (JavaScript, TypeScript, HTML5).
+* **Hardware & IoT Control:** Configured with physical interface layers for microcontrollers and single-board embedded systems, allowing direct peripheral management and native low-level runtime execution.
+* **Storage & Relational Data:** Provisioned with structured data storage backends using standard SQL access methods for lightweight localized data indexing.
+
+### 🌐 Platforms & Cloud Footprint
+* **Native Kernel:** Anchored primarily on native Linux architectures for kernel-level speed and pipeline stability.
+* **Infrastructure & Edge:** Distributed across dedicated hardware platforms like Raspberry Pi arrays for localized servers and continuous ambient computing processes.
+* **Cloud & Model Deployment:** Integrated with scalable cloud deployment environments, edge networks, continuous deployment pipelines, and advanced machine learning models.
+
+---
+
+## 📂 Repository Architecture & Manifest Index
+
+The comprehensive indexes of specific binaries, application software, and library requirements are separated into dedicated subsystem manifests for fast loading and clean maintenance:
+
+### 🛠️ Workstation Utilities Index ➜ [apps.md](./apps.md)
+Contains the catalog of all consumer apps, desktop software, structural systems, and specialized tools including:
+* **Production Toolchains:** Visual IDE configurations, containerization platforms, virtualization engines, and native tool compilers.
+* **AI Tooling & Sandboxes:** Full local large language model orchestrators, interface apps, autonomous software engineers, and backend databases.
+* **Ecosystem Utilities:** Deep directory storage analytics tools, backup managers, file archivers, system memory management extensions, and uninstallation helpers.
+* **Specialized Software:** Complete hardware tracking engines, automated communication frameworks, media rendering engines, and standalone desktop chess analysis structures.
+
+### 🐍 Python Package Requirements ➜ [py-packages.md](./py-packages.md)
+Tracks the exhaustive list of all 234 active environment packages, library models, and software development modules covering:
+* **Intelligence Layers:** Full foundational model kits, orchestration layers, specialized voice synthesizers, and media transcription engines.
+* **Web Automation:** Headless automation runtimes, asynchronous network interfaces, parsing wrappers, and request engines.
+* **Scientific Computing:** Multi-dimensional arrays, dataframes, calculation engines, plotting/visualization matrices, and quantum computing simulators.
+* **Asynchronous Automation:** Multi-platform chat integration bot engines, webhook listeners, async database clients, and interface frameworks.
