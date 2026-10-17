@@ -17,15 +17,3 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6029E4?style=flat&logo=qiskit&logoColor=white)
 
-## 🛠️ Applications, Tools & AI
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Open WebUI](https://img.shields.io/badge/OpenWebUI-blue?style=flat)
-![Devin](https://img.shields.io/badge/Devin-blue?style=flat)
-![Antigravity](https://img.shields.io/badge/Antigravity-blue?style=flat)
-![GnuWin32](https://img.shields.io/badge/GnuWin32-blue?style=flat)
-![Mozilla Thunderbird](https://img.shields.io/badge/MozillaThunderbird-0A84FF?style=flat&logo=thunderbird&logoColor=white)
-![WinRAR](https://img.shields.io/badge/WinRAR-blue?style=flat)
-![WebCatalog](https://img.shields.io/badge/WebCatalog-blue?style=flat)
-![Recuva](https://img.shields.io/badge/Recuva-blue?style=flat)
-![Redact](https://img.shields.io/badge/Redact-blue?style=flat)
