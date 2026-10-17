@@ -27,6 +27,13 @@ This setup is optimized for heavy automation, systems development, data science 
 
 The comprehensive indexes of specific binaries, application software, and library requirements are separated into dedicated subsystem manifests for fast loading and clean maintenance:
 
+### 🏗️ Languages & Core Runtimes ➜ [lang.md](./lang.md)
+Contains the catalog of all programming languages, scripting tools, shell setups, database configurations, and upcoming technical learning targets including:
+* **Active Programming Languages:** Systems development environments, firmware programming kits, and scripting utilities.
+* **Scripting & Shells:** Native command-line environments, automation scripting setups, and legacy batch execution configs.
+* **Data Stores:** Relational database frameworks and query parsing layers.
+* **Technology Roadmap:** Curated sandbox tracks for upcoming languages, performance testing environments, and experimental compilers.
+
 ### 🛠️ Workstation Utilities Index ➜ [apps.md](./apps.md)
 Contains the catalog of all consumer apps, desktop software, structural systems, and specialized tools including:
 * **Production Toolchains:** Visual IDE configurations, containerization platforms, virtualization engines, and native tool compilers.
