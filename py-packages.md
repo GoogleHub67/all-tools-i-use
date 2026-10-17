@@ -59,7 +59,7 @@
 ![frozenlist](https://img.shields.io/badge/frozenlist-1.8.0-blue)
 ![fsspec](https://img.shields.io/badge/fsspec-2026.6.0-blue)
 ![fuzzywuzzy](https://img.shields.io/badge/fuzzywuzzy-0.18.0-blue)
-![git-filter-repo](https://img.shields.io/badge/git-filter-repo-2.47.0-blue)
+![git-filter-repo](https://img.shields.io/badge/git--filter--repo-2.47.0-blue)
 ![github-backup](https://img.shields.io/badge/github--backup-0.65.1-blue)
 ![google-api-core](https://img.shields.io/badge/google--api--core-2.30.0-blue)
 ![google-api-python-client](https://img.shields.io/badge/google--api--python--client-2.193.0-blue)
