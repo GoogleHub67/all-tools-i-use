@@ -25,7 +25,7 @@
 ![Tcl](https://img.shields.io/badge/Tcl-4B8BBE?style=flat)
 ![Delphi](https://img.shields.io/badge/Delphi-F43F35?style=flat&logo=delphi&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly%20(ASM)-6E4C13?style=flat)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
 ![Pascal](https://img.shields.io/badge/Pascal-E34F26?style=flat)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
