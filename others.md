@@ -1,12 +1,3 @@
-## 🌐 Platforms, Cloud & Deployment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Anthropic-black?style=flat&logo=anthropic&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
-![Read the Docs](https://img.shields.io/badge/ReadtheDocs-8CAAE6?style=flat&logo=readthedocs&logoColor=white)
-
 ## 📦 Python Libraries with Logos
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
