@@ -9,7 +9,7 @@
 ![gunicorn](https://img.shields.io/badge/gunicorn-26.2.0-blue)
 ![imagesize](https://img.shields.io/badge/imagesize-2.0.1-blue)
 ![itsdangerous](https://img.shields.io/badge/itsdangerous-2.2.0-blue)
-![Lichess-MakeChessBetter](https://img.shields.io/badge/Lichess--MakeChessBetter-3.0.post1-blue)
+![Lichess-MakeChessBetter](https://img.shields.io/badge/Lichess--MakeChessBetter-3.0.0.post1-blue)
 ![mdit-py-plugins](https://img.shields.io/badge/mdit--py--plugins-0.6.1-blue)
 ![myst-parser](https://img.shields.io/badge/myst--parser-5.1.0-blue)
 ![narwhals](https://img.shields.io/badge/narwhals-2.27.1-blue)
